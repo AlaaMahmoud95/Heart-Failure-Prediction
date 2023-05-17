@@ -1,7 +1,7 @@
 # Heart-Failure-Prediction
 Classification Machine Learning Project
 
-##About Dataset
+## About Dataset
 Similar Datasets
 Hepatitis C Dataset: LINK
 Body Fat Prediction Dataset: LINK
@@ -15,7 +15,7 @@ Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking 
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
-##Attribute Information
+## Attribute Information
 Age: age of the patient [years]
 Sex: sex of the patient [M: Male, F: Female]
 ChestPainType: chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
@@ -28,7 +28,7 @@ ExerciseAngina: exercise-induced angina [Y: Yes, N: No]
 Oldpeak: oldpeak = ST [Numeric value measured in depression]
 ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 HeartDisease: output class [1: heart disease, 0: Normal]
-##Source
+## Source
 This dataset was created by combining different datasets already available independently but not combined before. In this dataset, 5 heart datasets are combined over 11 common features which makes it the largest heart disease dataset available so far for research purposes. The five datasets used for its curation are:
 
 Cleveland: 303 observations
